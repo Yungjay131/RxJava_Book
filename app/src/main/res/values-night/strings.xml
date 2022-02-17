@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tv_frag_welcome_text">Welcome to RxJava Demos from the Book. Please select a destination from the TabLayout</string>
+</resources>

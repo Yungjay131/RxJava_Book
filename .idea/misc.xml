@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/work_projects/AndroidStudioProjects/RxJava_book/app/src/main/res/drawable/btn_bg.xml" value="0.240625" />
+        <entry key="..\:/Users/USER/work_projects/AndroidStudioProjects/RxJava_book/app/src/main/res/drawable/btn_bg2.xml" value="0.240625" />
+        <entry key="..\:/Users/USER/work_projects/AndroidStudioProjects/RxJava_book/app/src/main/res/drawable/btn_bg_disabled.xml" value="0.240625" />
+        <entry key="..\:/Users/USER/work_projects/AndroidStudioProjects/RxJava_book/app/src/main/res/drawable/btn_bg_pressed.xml" value="0.240625" />
+        <entry key="..\:/Users/USER/work_projects/AndroidStudioProjects/RxJava_book/app/src/main/res/drawable/et_bg_default.xml" value="0.240625" />
+        <entry key="..\:/Users/USER/work_projects/AndroidStudioProjects/RxJava_book/app/src/main/res/drawable/et_bg_focused.xml" value="0.240625" />
+        <entry key="..\:/Users/USER/work_projects/AndroidStudioProjects/RxJava_book/app/src/main/res/drawable/et_selector.xml" value="0.240625" />
+        <entry key="..\:/Users/USER/work_projects/AndroidStudioProjects/RxJava_book/app/src/main/res/drawable/tv_bg.xml" value="0.240625" />
+        <entry key="..\:/Users/USER/work_projects/AndroidStudioProjects/RxJava_book/app/src/main/res/drawable/tv_bg_error.xml" value="0.240625" />
+        <entry key="..\:/Users/USER/work_projects/AndroidStudioProjects/RxJava_book/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/USER/work_projects/AndroidStudioProjects/RxJava_book/app/src/main/res/layout/chapter_four_coffee_break.xml" value="0.18" />
+        <entry key="..\:/Users/USER/work_projects/AndroidStudioProjects/RxJava_book/app/src/main/res/layout/fragment_chapter_five.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/USER/work_projects/AndroidStudioProjects/RxJava_book/app/src/main/res/layout/fragment_chapter_four.xml" value="0.1" />
+        <entry key="..\:/Users/USER/work_projects/AndroidStudioProjects/RxJava_book/app/src/main/res/layout/fragment_chapter_four__coffee_break.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/USER/work_projects/AndroidStudioProjects/RxJava_book/app/src/main/res/layout/fragment_chapter_four_host.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/USER/work_projects/AndroidStudioProjects/RxJava_book/app/src/main/res/layout/fragment_chapter_one.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/USER/work_projects/AndroidStudioProjects/RxJava_book/app/src/main/res/layout/fragment_chapter_three.xml" value="0.22" />
+        <entry key="..\:/Users/USER/work_projects/AndroidStudioProjects/RxJava_book/app/src/main/res/layout/fragment_chapter_two.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/USER/work_projects/AndroidStudioProjects/RxJava_book/app/src/main/res/layout/fragment_welcome.xml" value="0.18" />
+        <entry key="..\:/Users/USER/work_projects/AndroidStudioProjects/RxJava_book/app/src/main/res/layout/layout_main.xml" value="0.18" />
+        <entry key="..\:/Users/USER/work_projects/AndroidStudioProjects/RxJava_book/app/src/main/res/layout/li_rv_chap_02.xml" value="0.18" />
+        <entry key="..\:/Users/USER/work_projects/AndroidStudioProjects/RxJava_book/app/src/main/res/layout/li_rv_chap_04.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/USER/work_projects/AndroidStudioProjects/RxJava_book/app/src/main/res/layout/nav_header_layout.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/USER/work_projects/AndroidStudioProjects/RxJava_book/app/src/main/res/menu/main_activity_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/USER/work_projects/AndroidStudioProjects/RxJava_book/app/src/main/res/menu/main_activity_nav_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

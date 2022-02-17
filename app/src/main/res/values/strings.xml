@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RxJava_book</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_frag_welcome_text">Welcome to RxJava Demos from the Book. Please select a destination from the Navigation View</string>
+    <string name="open_text">open</string>
+    <string name="close_text">close</string>
+</resources>
